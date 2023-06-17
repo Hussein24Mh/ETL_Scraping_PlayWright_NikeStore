@@ -1,6 +1,13 @@
-# ETL Scraping NikeStore PlayWright
+# ETL Scraping NikeStore Using PlayWright
 
-**In this project i will scrape shoes data from nike website using python as main programing language and some framework tools like PlayWright for Automation Work and Selectolex for Data Extracting From Html , then i will load data to “Four” different formats (Json , Google SpreadSheet, CSV, Excel)**
+In this project, I will scrape shoes data from the Nike website using Python as the main programing language and some framework tools like PlayWright for Automation Work and Selectolex for Data Extracting From Html 
+
+then I will load data into “Four” different formats 
+
+- JSON
+- Google Spreadsheet
+- CSV
+- Excel
 
 <img title="" src="Upwork_Nike_Shoes.png" alt="banner that says hussein mahmoud data scientist">
 
