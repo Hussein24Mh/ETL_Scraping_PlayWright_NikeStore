@@ -13,4 +13,4 @@ then I will load data into “Four” different formats
 - CSV
 - Excel
 
-<img title="" src="Upwork_Nike_Shoes.png" alt="banner that says hussein mahmoud data scientist">
+<img title="" src="Nike_Shoes.png" alt="banner that says hussein mahmoud data scientist">
